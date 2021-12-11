@@ -1,0 +1,15 @@
+.div{
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 40px;
+    width: 400px;
+    height: 350px;
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -20px;
+}
+body{
+    background-color: lightgoldenrodyellow;
+}
